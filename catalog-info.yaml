@@ -10,4 +10,4 @@ spec:
   lifecycle: production
   owner: transactions-team
   definition:
-    $text: ./funds-confirmation-spec.json
+    $text: ./fund-confirmation-spec.json
