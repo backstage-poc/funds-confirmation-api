@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: funds_confirmation_api
+  description: Confirmation of Funds.
+  tags:
+    - java
+spec:
+  type: openapi
+  lifecycle: production
+  owner: transactions-team
+  definition:
+    $text: ./funds-confirmation-spec.json
