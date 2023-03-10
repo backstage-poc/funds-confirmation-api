@@ -7,6 +7,7 @@ metadata:
     - java
 spec:
   type: openapi
+  system: Transaction
   lifecycle: production
   owner: transactions-team
   definition:
