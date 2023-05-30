@@ -1,0 +1,7 @@
+site_name: 'Funds Confirmation API'
+docs_dir: .
+nav:
+  - Home: README.md
+plugins:
+  - same-dir
+  - techdocs-core
